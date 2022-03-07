@@ -8,7 +8,7 @@ from colabfit import (
     ATOMS_NAME_FIELD, ATOMS_LABELS_FIELD,
     ATOMS_CONSTRAINTS_FIELD
 )
-
+#TEST
 
 class Configuration(Atoms):
     """
